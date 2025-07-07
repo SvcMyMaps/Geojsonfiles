@@ -1,0 +1,20 @@
+{
+            "type": "FeatureCollection",
+            "features": [
+                 {
+            "type": "Feature",
+            "properties": {
+                "_azureMapsShapeId": "",
+                "label": "Ruta 1",
+                "color": "",
+                "fillColor": "",
+                "selected": true
+            },
+            "id": "d9252d62-e599-4eda-bfdc-a3dce6848a15",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": 
+            }
+        }
+            ]
+        }
